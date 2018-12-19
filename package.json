@@ -1,5 +1,5 @@
 {
-  "name": "react-boilerplate",
+  "name": "my-new-awesome-app",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -55,5 +55,14 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-hot-loader": "^4.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramgopalbhat10/my-awesome-new-app.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Ramgopalbhat10/my-awesome-new-app/issues"
+  },
+  "homepage": "https://github.com/Ramgopalbhat10/my-awesome-new-app#readme"
 }
